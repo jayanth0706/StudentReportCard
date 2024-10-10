@@ -16,17 +16,23 @@ JButton for triggering the calculation and clearing data.
 StringTokenizer to split the marks entered.
 
 ### How to Run
+
 Clone or download the repository:
 
 git clone https://github.com/jayanth0706/StudentReportCard_UI.git
+
+
 Open the project in any Java IDE (like Eclipse, IntelliJ) or compile and run via the terminal using javac and java commands.
+
 
 Compile the Java file:
 
 javac Student2.java
+
 Run the program:
 
 java Student2
+
 The application window will open, allowing you to input the student details and marks.
 
 ### How to Use
